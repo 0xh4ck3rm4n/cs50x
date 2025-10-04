@@ -6,7 +6,7 @@ I built it using [Scratch](https://scratch.mit.edu/), a visual programming langu
 ---
 
 ## Play the Game Online
-
+<img src="https://postimg.cc/bSSQpTWM" alt="Thumbnail" width=200 height=200>
 You can try out my project directly on Scratch:  
 [Click here to play](https://scratch.mit.edu/projects/1224926560/)
 
