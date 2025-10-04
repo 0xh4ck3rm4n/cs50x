@@ -24,8 +24,8 @@ You can try out my project directly on Scratch:
 ##  About the Project
 
 - Built as part of **Problem Set 0 (Scratch)** for CS50x.  
-- Uses Scratch’s drag-and-drop blocks to create an interactive experience.  
-- Aimed to practice **logic, loops, events, and creativity** while learning the fundamentals of computer science.  
+- Uses Scratch’s drag-and-drop blocks to create an interactive game about **dodging different colleges incoming towards you**.
+- As you dodge more colleges, you get more score points.  
 
 ---
 
