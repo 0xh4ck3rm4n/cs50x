@@ -12,10 +12,10 @@
 ## Submission 
 <ol>
   <li>Submit <a href="https://cs50.harvard.edu/x/psets/1/me/">Hello, It’s Me.</a></li>
-  <li>Submit one of:</li>>
+  <li>Submit one of:</li>
    <ul>
      <li><a href="https://cs50.harvard.edu/x/psets/1/mario/less/">this version of Mario</a>, if feeling less comfortable</li>
-     <li><a href="https://cs50.harvard.edu/x/psets/1/mario/more/"></a>this version of Mario, if feeling more comfortable</li>
+     <li><a href="https://cs50.harvard.edu/x/psets/1/mario/more/">this version of Mario</a>, if feeling more comfortable</li>
    </ul>
    
    
