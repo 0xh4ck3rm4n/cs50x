@@ -22,7 +22,7 @@ I’ll be uploading all my weekly problem sets, labs, and final project here as 
 
 - [x] Week 0: Scratch ✅  
 - [x] Week 1: C ✅ 
-- [ ] Week 2: Arrays  
+- [x] Week 2: Arrays ✅ 
 - [ ] Week 3: Algorithms  
 - [ ] Week 4: Memory  
 - [ ] Week 5: Data Structures  
